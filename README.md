@@ -65,5 +65,6 @@
 
 ### 💡 Achievements
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=pratikshakunghadkar2003&theme=darkhub&column=3&margin-w=15&margin-h=15)
+![Achievements](https://github-profile-trophy.vercel.app/?username=UmeshRaut&theme=darkhub&column=6&margin-w=15&margin-h=15)
+
 
