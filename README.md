@@ -18,12 +18,6 @@
   </tr>
 </table>
 
-
-# Hi, I'm Pratiksha Kunghadkar 👋
-### Front-End Engineer | Full-Stack Developer | AI Enthusiast
-
-I am a passionate Full-Stack Developer specializing in JavaScript, Node.js, React.js, and Express.js. My focus is on creating impactful projects that solve real-world problems with a strong emphasis on clean and scalable code.
-
 ### 🚀 About Me
 - 🌱 I’m currently learning: Advanced React.js
 - 👯 I’m looking to collaborate on: Open-source AI or Full-Stack Projects
@@ -33,8 +27,6 @@ I am a passionate Full-Stack Developer specializing in JavaScript, Node.js, Reac
 ### 🌟 My Work
 - 🌐 [My Projects](https://github.com/pratikshakunghadkar2003?tab=repositories) - Explore all of my repositories.
 - 🛠 [My Blog](https://github.com/UmeshRaut/my-blog) - Read about my experiences and tech insights.
-
----
 
 ### 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmeshRaut)
@@ -53,3 +45,10 @@ I am a passionate Full-Stack Developer specializing in JavaScript, Node.js, Reac
 ![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshakunghadkar2003&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshakunghadkar&layout=compact&theme=radical)
+
+### 📬 Connect On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umeshraut)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umeshraut)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umeshraut@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmeshRaut)
+
