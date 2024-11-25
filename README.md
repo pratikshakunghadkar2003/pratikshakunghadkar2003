@@ -1,17 +1,22 @@
-![Banner](<banner-image-link>) 
-
-<h1 align="center">Hi, I’m Pratiksha Kunghadkar 👩‍💻</h1>
-<p align="center">
-  <strong>🚀 Full-Stack Engineer | 🌟 Passionate Problem Solver | 🛠️ Building Scalable Solutions</strong>
-</p>
-
-<p align="center">
-  <img 
-    src="https://media.licdn.com/dms/image/v2/D5603AQGhhH9jCaxNcQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711104303419?e=1738195200&v=beta&t=_Tfr2E59Y1aB6JFE6oPN5CBFTXce_zLWNib7X87Bun0" 
-    alt="Pratiksha Kunghadkar Banner" 
-    style="border-radius: 10px; width: 100%; max-width: 800px;" 
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://media.licdn.com/dms/image/v2/D5603AQGhhH9jCaxNcQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1711104303419?e=1738195200&v=beta&t=iQBPGnmjra9WN3fsx8Gy2WLLi39fr8zBZtKQa8q_bqQ" 
+        alt="Pratiksha Kunghadkar" 
+        style="border-radius: 50%; width: 150px; height: 150px;" 
+      />
+    </td>
+    <td>
+      <h1>Hi, I’m Pratiksha Kunghadkar 👩‍💻</h1>
+      <p>
+        🚀 <strong>Full-Stack Engineer</strong><br>
+        🌟 <strong>Passionate Problem Solver</strong><br>
+        🛠️ <strong>Building Scalable Solutions</strong>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 # Hi, I'm Pratiksha Kunghadkar 👋
