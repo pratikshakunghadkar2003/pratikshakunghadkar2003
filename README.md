@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats
 ![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshakunghadkar2003&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshakunghadkar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshakunghadkar2003&layout=compact&theme=radical)
 
 ### 🛠 Tools of Trade
 
