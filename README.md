@@ -63,4 +63,7 @@
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+### 💡 Achievements
+
+![Achievements](https://github-profile-trophy.vercel.app/?username=pratikshakunghadkar2003&theme=darkhub&column=3&margin-w=15&margin-h=15)
 
